@@ -6,6 +6,7 @@
 // @author       Victor Shih
 // @match        https://console.aws.amazon.com/rds/home*
 // @grant        none
+// @license      GPL-3.0-or-later
 
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
 // ==/UserScript==
